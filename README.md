@@ -1,2 +1,11 @@
 # BASIC-PAC-MAN
-Pac-Man inspired clone written in BASIC for the Tandy Color Computer 3
+
+A Pac-Man style game written in BASIC for the Tandy Color Computer 3. Released for SEPTANDY 2025 by **CoCo-Synthesis**.
+
+## Screenshots
+
+### Title Screen
+![Pac-Man Start Screen](Ready Screenshot.jpg)
+
+### Gameplay
+![Pac-Man Gameplay](gameplay.png)
