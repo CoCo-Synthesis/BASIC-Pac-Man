@@ -4,7 +4,7 @@ A Pac-Man style game written in BASIC for the Tandy Color Computer 3. Released f
 
 ## Screenshots
 
-### Title Screen
+### Start Screen
 ![Pac-Man Start Screen](Ready%20Screenshot.jpg)
 
 ### Gameplay
