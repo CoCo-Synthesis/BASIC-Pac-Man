@@ -4,7 +4,7 @@ A Pac-Man style game written in BASIC for the Tandy Color Computer 3. Released f
 
 ## History
 
-I started working on this game around 1992 while in college.  I had discovered the FontOGen.BAS program that allowed you to create and save custom character sets that could be used with the BASIC HPRINT command and this had me thinking I could make a Pac Man game that used simple text screen mechanics but with the benefit of higher resolution graphics.  Even though I made substantial progress on the game, I never achieved a version that was playable, let alone complete.
+I started working on this game around 1992 while in college.  I had discovered the [FontOGenic III](https://colorcomputerarchive.com/repo/Disks/Applications/Fontogenic%203%20%28Todd%20Knudsen%29%20%28Coco%203%29.zip) BASIC program that allowed you to create and save custom character sets that could be used with the BASIC HPRINT command and this had me thinking I could make a Pac Man game that used simple text screen mechanics but with the benefit of higher resolution graphics.  Even though I made substantial progress on the game, I never achieved a version that was playable, let alone complete.
 
 33 years later...
 
