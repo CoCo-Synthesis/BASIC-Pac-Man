@@ -34,7 +34,7 @@ The game includes 6 Maze Designs inspired by various versions of Pac Man.  Each 
 ### Multiple Bonus "Fruits"
 The game has 7 of the bounus "fruits" that are part of the original Pac-Man experience.  The "Galaxian Spaceship" is the only bonus fruit missing.  Once the user clears the 7th Bounus (Bell), subsequent levels will repeat the Bell bonus fruit.
 
-###Extra Pac-Man
+### Extra Pac-Man
 The game rewards you with an extra Pac-Man every 10,000 points.
 
 ## Screenshots
