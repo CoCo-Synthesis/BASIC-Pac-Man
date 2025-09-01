@@ -1,6 +1,8 @@
 # BASIC-PAC-MAN
 
-A Pac-Man style game written in BASIC for the Tandy Color Computer 3. Released for SEPTANDY 2025 by **CoCo-Synthesis**.
+A Pac-Man style game written in BASIC for the Tandy Color Computer 3.
+
+Released for SEPTANDY 2025 by **CoCo-Synthesis**.
 
 ## History
 
@@ -21,6 +23,8 @@ Unfortunately, this meant I needed to essentially rewrite most of the program, a
 I also want to thank [CoCoNut Bob](https://www.youtube.com/@CoCoNutBob) for letting me know about the POKEs to alter the HPRINT command so that it clears out the background instead of leaving it transparent.  That reduced the amount of HPRINTing in the code.
 
 ## Sound Effects
+
+The music and sound effects use the PLAY command with the Tempo (T) set to 255, and every Note Length played at 255.  Back in the early nineties, composing these PLAY commands would have been tedious and probably not very successful in mimicking the intended sound unless the programmer had severe OCD.  Luckily, I was able to use Copilot (ChatGPT 4.1) to create a Python script that can take any WAV or MP3 file and generate a set of PLAY commands that approximate the dominant note and volume level every 1/60th of a second.  It worked pretty well for generating the intro music and did very well for the remaining sound effects.
 
 ## Screenshots
 
