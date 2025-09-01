@@ -26,6 +26,14 @@ I also want to thank [CoCoNut Bob](https://www.youtube.com/@CoCoNutBob) for lett
 
 The music and sound effects use the PLAY command with the Tempo (T) set to 255, and every Note Length (L) set to 255.  Back in the early nineties, composing these PLAY commands would have been tedious and probably not very successful at mimicking the intended sounds unless the programmer had severe OCD.  Luckily, I was able to use Copilot (ChatGPT 4.1) to create a [Python script](ConvertWav2Play.py) that can take any WAV or MP3 file and generate a set of PLAY commands that approximate the dominant note and volume level every 1/60th of a second.  It worked pretty well for generating the intro music and did very well for the remaining sound effects.
 
+## Game Features
+
+### Multiple Mazes
+The game includes 6 Maze Designs inspired by various versions of Pac Man.  Each Maze is contained in a data file named "MAZE {#}/DAT".  As each Maze is cleared during game play, the next sequential Maze file is loaded.  After the last Maze is loaded, the cycle starts over.  It is possible to add more custom Maze files without modifying the code as long as the data format is correct, and the filename convention is followed with the Maze number being a sequential value.  I am considering a future Maze Designer program that will make it easy to change/add Mazes.
+
+### Multiple Bonus "Fruits"
+The game has 7 of the bounus "fruits" that are part of the original Pac-Man experience.  The "Galaxian Spaceship" is the only bonus fruit missing.  Once the user clears the 7th Bounus (Bell), subsequent levels will repeat the Bell bonus fruit.
+
 ## Screenshots
 
 ### Start Screen
