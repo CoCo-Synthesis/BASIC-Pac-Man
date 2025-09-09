@@ -37,6 +37,23 @@ The game has 7 of the bounus "fruits" that are part of the original Pac-Man expe
 ### Extra Pac-Man
 The game rewards you with an extra Pac-Man every 10,000 points.
 
+## Maze Manager
+
+Now you can edit existing Mazes or create new ones!  The Maze Manager (MAZE MGR.BAS) let's you LOAD existing mazes, create a NEW maze, and SAVE your changes.
+### Keyboard controls
+### Actions
+#### NEW
+#### LOAD
+#### SAVE
+### Maze Editing
+#### Change Tiles
+#### Change Color
+### Restrictions
+#### Power Pellets
+#### Ghost Jail
+#### Pac Man Start Position
+#### Tunnels
+
 ## Screenshots
 
 ### Start Screen
