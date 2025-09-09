@@ -1,4 +1,4 @@
-# BASIC-PAC-MAN
+# BASIC-PAC-MAN (PAC-MAN.BAS)
 
 A Pac-Man style game written in BASIC for the Tandy Color Computer 3.
 
@@ -37,24 +37,42 @@ The game has 7 of the bounus "fruits" that are part of the original Pac-Man expe
 ### Extra Pac-Man
 The game rewards you with an extra Pac-Man every 10,000 points.
 
-## Maze Manager
+# MAZE MANAGER (MAZE MGR.BAS)
 
-Now you can edit existing Mazes or create new ones!  The Maze Manager (MAZE MGR.BAS) let's you LOAD existing mazes, create a NEW maze, and SAVE your changes.
-### Keyboard controls
-### Actions
-#### NEW
-#### LOAD
-#### SAVE
-### Maze Editing
-#### Change Tiles
-#### Change Color
-### Restrictions
-#### Power Pellets
-#### Ghost Jail
-#### Pac Man Start Position
-#### Tunnels
+Now you can edit existing Mazes or create new ones!  The Maze Manager let's you LOAD existing mazes, create a NEW maze, and SAVE your changes.
+## Keyboard Navigation
+Use the ARROW keys to navigate selection choices.
+Press the ENTER key to make a selection.
+Use the BREAK key to go back to the previous selection section/menu.
+## Actions
+The first selection section allows the user to pick from the 3 main actions:
+### NEW
+This action creates an "empty" maze that the user can start to build out.
+### LOAD
+This action displays a list of maze "levels" that the user can load for editing by selecting the desired maze. Empty mazes are displayed as grey text and selecting an empty maze level will load an "empty" maze that you can start to build out.
+### SAVE
+This action allows you to select a maze "level" to save commit your new or updated maze.  You will be warned if you are replacing existing Maze data.  "Empty" maze slots are displayed in grey text.
+## Maze Editing
+Once a maze is loaded and displayed, you can use the arrow keys to navigate which tile you want to change.
+### Change Tiles
+Pressing the ENTER key will allow the user to select a desired replacement tile.  Use the arrow keys to select the tile and press ENTER to update the maze.
+### Change Maze Color
+The Tile Selection section also has section labeled "CLR" that when selected allows you to change the maze color by selecting the UP/DOWN arrow keys.
+## Maze Restrictions
+### Power Pellets
+The Maze Manager requires 4 Power Pellets exist on the Maze in order for the SAVE action to be available.
+If you have 4 Power Pellets on your maze, you must remove one before you can add another one.
+### Ghost Jail
+Even though you can navigate over the "Ghost Jail" tiles, you cannot select them for editing.
+### Pac Man Start Position
+Even though you can navigate over the Pac Man at the start position, you cannot select it for editing.
+### Tunnels
+A tunnel can be created by not having a border tile on both the left and right side of the maze on the same grid row.  You can have as many tunnels as you want and they should function as expected.  However, the game will not yet support tunnels that run top to bottom of the maze.  Maze manager does not restrict you from creating and saving mazes with "bad" tunnels.
 
-## Screenshots
+# Screenshots
 
-### Start Screen
+## Game Start Screen
 ![Pac-Man Start Screen](Ready%20Screenshot.jpg)
+
+## Maze Manager Interface
+
