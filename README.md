@@ -1,4 +1,4 @@
-# BASIC-PAC-MAN (PAC-MAN.BAS)
+# BASIC Pac-Man (PAC-MAN.BAS)
 
 A Pac-Man style game written in BASIC for the Tandy Color Computer 3.
 Released for SEPTANDY 2025 by **CoCo-Synthesis**.
@@ -42,7 +42,7 @@ The game rewards you with an extra Pac-Man every 10,000 points.
 
 Now you can edit existing Mazes or create new ones!  The Maze Manager let's you LOAD existing mazes, create a NEW maze, and SAVE your changes.
 
-![Maze Manager Interface](Maze%20Manager%20Interface.jpg)
+![Maze Manager Interface](Maze%20Manager%20Interface.png)
 
 ## Keyboard Navigation
 - Use the ARROW keys to navigate selection choices.
