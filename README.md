@@ -1,4 +1,4 @@
-# BASIC Pac-Man (PAC-MAN.BAS)
+# BASIC Pac-Man <sub>(PAC-MAN.BAS)</sub>
 
 A Pac-Man style game written in BASIC for the Tandy Color Computer 3.
 Released for SEPTANDY 2025 by **CoCo-Synthesis**.
@@ -38,7 +38,7 @@ The game has 7 of the bounus "fruits" that are part of the original Pac-Man expe
 ### Extra Pac-Man
 The game rewards you with an extra Pac-Man every 10,000 points.
 
-# MAZE MANAGER (MAZE MGR.BAS)
+# MAZE MANAGER <sub>(MAZE MGR.BAS)</sub>
 
 Now you can edit existing Mazes or create new ones!  The Maze Manager let's you LOAD existing mazes, create a NEW maze, and SAVE your changes.
 
