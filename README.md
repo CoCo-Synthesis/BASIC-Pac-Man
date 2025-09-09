@@ -1,8 +1,9 @@
 # BASIC-PAC-MAN (PAC-MAN.BAS)
 
 A Pac-Man style game written in BASIC for the Tandy Color Computer 3.
-
 Released for SEPTANDY 2025 by **CoCo-Synthesis**.
+
+![Pac-Man Start Screen](Ready%20Screenshot.jpg)
 
 ## History
 
@@ -40,6 +41,9 @@ The game rewards you with an extra Pac-Man every 10,000 points.
 # MAZE MANAGER (MAZE MGR.BAS)
 
 Now you can edit existing Mazes or create new ones!  The Maze Manager let's you LOAD existing mazes, create a NEW maze, and SAVE your changes.
+
+![Maze Manager Interface](Maze%20Manager%Interface.jpg)
+
 ## Keyboard Navigation
 - Use the ARROW keys to navigate selection choices.
 - Press the ENTER key to make a selection.
@@ -69,10 +73,4 @@ Even though you can navigate over the Pac Man at the start position, you cannot 
 ### Tunnels
 A tunnel can be created by not having a border tile on both the left and right side of the maze on the same grid row.  You can have as many tunnels as you want and they should function as expected.  However, the game will not yet support tunnels that run top to bottom of the maze.  Maze manager does not restrict you from creating and saving mazes with "bad" tunnels.
 
-# Screenshots
-
-## Game Start Screen
-![Pac-Man Start Screen](Ready%20Screenshot.jpg)
-
-## Maze Manager Interface
 
