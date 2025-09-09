@@ -41,9 +41,9 @@ The game rewards you with an extra Pac-Man every 10,000 points.
 
 Now you can edit existing Mazes or create new ones!  The Maze Manager let's you LOAD existing mazes, create a NEW maze, and SAVE your changes.
 ## Keyboard Navigation
-Use the ARROW keys to navigate selection choices.
-Press the ENTER key to make a selection.
-Use the BREAK key to go back to the previous selection section/menu.
+- Use the ARROW keys to navigate selection choices.
+- Press the ENTER key to make a selection.
+- Use the BREAK key to go back to the previous selection section/menu.
 ## Actions
 The first selection section allows the user to pick from the 3 main actions:
 ### NEW
@@ -60,8 +60,8 @@ Pressing the ENTER key will allow the user to select a desired replacement tile.
 The Tile Selection section also has section labeled "CLR" that when selected allows you to change the maze color by selecting the UP/DOWN arrow keys.
 ## Maze Restrictions
 ### Power Pellets
-The Maze Manager requires 4 Power Pellets exist on the Maze in order for the SAVE action to be available.
-If you have 4 Power Pellets on your maze, you must remove one before you can add another one.
+- The Maze Manager requires 4 Power Pellets exist on the Maze in order for the SAVE action to be available.
+- If you have 4 Power Pellets on your maze, you must remove one before you can add another one.
 ### Ghost Jail
 Even though you can navigate over the "Ghost Jail" tiles, you cannot select them for editing.
 ### Pac Man Start Position
