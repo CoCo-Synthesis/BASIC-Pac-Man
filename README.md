@@ -33,7 +33,7 @@ The music and sound effects use the PLAY command with the Tempo (T) set to 255, 
 The game includes 6 Maze Designs inspired by various versions of Pac Man.  Each Maze is contained in a data file named "MAZE {#}/DAT".  As each Maze is cleared during game play, the next sequential Maze file is loaded.  After the last Maze is loaded, the cycle starts over.  It is possible to add more custom Maze files without modifying the code as long as the data format is correct, and the filename convention is followed with the Maze number being a sequential value.  I am considering a future Maze Designer program that will make it easy to change/add Mazes.
 
 ### Multiple Bonus "Fruits"
-The game has 7 of the bounus "fruits" that are part of the original Pac-Man experience.  The "Galaxian Spaceship" is the only bonus fruit missing.  Once the user clears the 7th Bounus (Bell), subsequent levels will repeat the Bell bonus fruit.
+The game has 7 of the bonus "fruits" that are part of the original Pac-Man experience.  The "Galaxian Spaceship" is the only bonus fruit missing.  Once the user clears the 7th Bonus (Bell), subsequent levels will repeat the Bell bonus fruit.
 
 ### Extra Pac-Man
 The game rewards you with an extra Pac-Man every 10,000 points.
